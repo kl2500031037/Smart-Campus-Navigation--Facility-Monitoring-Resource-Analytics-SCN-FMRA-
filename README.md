@@ -68,19 +68,6 @@ scnfmra/
 └── README.md
 
 
- Visualizations
-
- ## 📸 Visualizations
-
-### 📊 Booking Analysis
-![Booking Analysis](Booking.png)
-
-### 📈 Complaint Trends
-![Complaint Trends](Complaints.png)
-
-### 📉 Asset Distribution
-![Asset Distribution](Asset.png)
-
 Conclusion
 
 This project demonstrates how data structures, algorithms, and data analytics can be integrated to build an efficient smart campus management system.
