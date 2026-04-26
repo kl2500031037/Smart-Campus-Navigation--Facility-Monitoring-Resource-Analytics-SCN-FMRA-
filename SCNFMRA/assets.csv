@@ -1,0 +1,9 @@
+asset_id,category,location,health
+A1,Projector,F101,Good
+A2,Computer,F106,Good
+A3,AC,F102,Needs Repair
+A4,Printer,AdminBlock,Good
+A5,SmartBoard,F103,Critical
+A6,Fan,F104,Good
+A7,Projector,F105,Needs Repair
+A6,Speaker,F102,Needs repair

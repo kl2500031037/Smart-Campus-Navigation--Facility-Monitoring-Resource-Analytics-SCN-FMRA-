@@ -1,0 +1,9 @@
+complaint_id,facility_id,issue,status
+C1,F101,Projector not working,Open
+C2,F102,AC not cooling,Open
+C3,F101,Lights issue,Open
+C4,F103,Sound system problem,Open
+C5,F104,Mic not working,Open
+C6,F101,Board damaged,Open
+C7,F105,WiFi issue,Open
+A1,F103,Fan not working,Open

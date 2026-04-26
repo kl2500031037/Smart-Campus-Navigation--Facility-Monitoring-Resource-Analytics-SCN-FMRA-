@@ -1,0 +1,65 @@
+[
+    {
+        "booking_id": "B1",
+        "facility_id": "F101",
+        "purpose": "Maths",
+        "start": "7:10AM",
+        "end": "8:50AM"
+    },
+    {
+        "booking_id": "B3",
+        "facility_id": "F101",
+        "purpose": "Data Structures",
+        "start": "9:20AM",
+        "end": "11:00AM"
+    },
+    {
+        "booking_id": "B4",
+        "facility_id": "F101",
+        "purpose": "Python ",
+        "start": "11:10AM",
+        "end": "12:50PM"
+    },
+    {
+        "booking_id": "B5",
+        "facility_id": "F102",
+        "purpose": "Lab",
+        "start": "7:10AM",
+        "end": "8:50AM"
+    },
+    {
+        "booking_id": "B6",
+        "facility_id": "F102",
+        "purpose": "DSlab",
+        "start": "9:00AM",
+        "end": "10:00AM"
+    },
+    {
+        "booking_id": "B8",
+        "facility_id": "F103",
+        "purpose": "Seminar ",
+        "start": "1:00PM",
+        "end": "2:00PM"
+    },
+    {
+        "booking_id": "B8",
+        "facility_id": "F103",
+        "purpose": "Library",
+        "start": "9:00PM",
+        "end": "11:00PM"
+    },
+    {
+        "booking_id": "B11",
+        "facility_id": "F103",
+        "purpose": "Yoga Class",
+        "start": "5:00AM",
+        "end": "6:00AM"
+    },
+    {
+        "booking_id": "B5",
+        "facility_id": "F101",
+        "purpose": "Library",
+        "start": "5:00PM",
+        "end": "6:00PM"
+    }
+]
