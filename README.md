@@ -70,24 +70,16 @@ scnfmra/
 
  Visualizations
 
- Booking Analysis
+ ## 📸 Visualizations
 
+### 📊 Booking Analysis
 ![Booking Analysis](Booking.png)
 
-Complaint Trends
-
+### 📈 Complaint Trends
 ![Complaint Trends](Complaints.png)
 
- 📉 Asset Distribution
-
+### 📉 Asset Distribution
 ![Asset Distribution](Asset.png)
-
- Facility Usage Analysis
-![Facility Usage](Facilities.png)
-
-Campus Navigation (BFS Path)
-![Navigation](Campusmap.png)
-
 
 Conclusion
 
