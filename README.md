@@ -1,6 +1,6 @@
 # Smart Campus Navigation, Facility Monitoring & Resource Analytics System (SCN-FMRA)
 
-## 👥 Team Members
+👥 Team Members
 
 * Kalangi Nikitha (2500031037)
 * Ch. Vennela (2500031042)
@@ -72,7 +72,7 @@ scnfmra/
 
  Booking Analysis
 
-![Booking Analysis](Bookingtrend.png)
+![Booking Analysis](Booking.png)
 
 Complaint Trends
 
@@ -83,10 +83,10 @@ Complaint Trends
 ![Asset Distribution](Asset.png)
 
  Facility Usage Analysis
-![Facility Usage](Facilityused.png)
+![Facility Usage](Facilities.png)
 
 Campus Navigation (BFS Path)
-![Navigation](Navigation.png)
+![Navigation](Campusmap.png)
 
 
 Conclusion
