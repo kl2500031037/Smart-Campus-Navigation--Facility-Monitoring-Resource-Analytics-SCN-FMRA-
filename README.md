@@ -72,7 +72,7 @@ scnfmra/
 
  Booking Analysis
 
-![Booking Analysis](Booking trend.png)
+![Booking Analysis](Bookingtrend.png)
 
 Complaint Trends
 
@@ -82,13 +82,13 @@ Complaint Trends
 
 ![Asset Distribution](Asset.png)
 
- Future Enhancements
+ Facility Usage Analysis
+![Facility Usage](Facilityused.png)
 
-* Web-based interface for better accessibility
-* Real-time data integration
-* Mobile application support
-* Advanced analytics and AI-based predictions
+Campus Navigation (BFS Path)
+![Navigation](Navigation.png)
 
- Conclusion
+
+Conclusion
 
 This project demonstrates how data structures, algorithms, and data analytics can be integrated to build an efficient smart campus management system.
